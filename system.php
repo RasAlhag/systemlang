@@ -9,10 +9,10 @@ return [
 'insert_all' => 'Вставить все',
 'more' => 'Подробнее',
 /*Pagination*/
-'home' => 'В начало',
-'end' => 'В конец',
-'previous' => 'Предыдущий',
-'next' => 'Следующий',
+'home' => '&laquo; В начало',
+'end' => 'В конец &raquo;',
+'previous' => '&larr; Назад',
+'next'     => 'Вперед &rarr;'
 'forward' => 'Вперед',
 'back' => 'Назад',
 /*Auth*/
